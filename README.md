@@ -24,9 +24,9 @@ The Oru Phones project is designed to meet the assignment requirements with meti
 ## Images
 
 
-| Home Screen | Notification Screen | Search Section | Filter Section |
+| Home Screen | Search Section | Filter Section | Notification Screen |
 | ------- | ------- | ------- | ------- |
-| ![1690456645707](https://github.com/Pysharma/oru_phones/assets/98549505/2dce72c4-f5e4-43f6-bb5e-189f972febfe) | ![1690456645690](https://github.com/Pysharma/oru_phones/assets/98549505/08431303-cce9-4752-9b21-0ae3ed138da4) | ![1690456645667](https://github.com/Pysharma/oru_phones/assets/98549505/b2e8ccb3-848b-404d-9192-31f51891e269) | ![1690456645643](https://github.com/Pysharma/oru_phones/assets/98549505/d34a2906-229a-47f9-83b0-93c867bce423) |
+| ![1690456645707](https://github.com/Pysharma/oru_phones/assets/98549505/2dce72c4-f5e4-43f6-bb5e-189f972febfe) |  ![1690456645667](https://github.com/Pysharma/oru_phones/assets/98549505/b2e8ccb3-848b-404d-9192-31f51891e269) | ![1690456645643](https://github.com/Pysharma/oru_phones/assets/98549505/d34a2906-229a-47f9-83b0-93c867bce423) |![1690456645690](https://github.com/Pysharma/oru_phones/assets/98549505/08431303-cce9-4752-9b21-0ae3ed138da4) |
 
 
 
